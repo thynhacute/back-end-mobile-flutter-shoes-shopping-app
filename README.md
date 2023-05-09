@@ -1,4 +1,3 @@
-# back-end-mobile-flutter-shoes-shopping-app
 # FPT SNEAKER GUIDELINE 
 ## INTRODUCTION
 ### IDEA
